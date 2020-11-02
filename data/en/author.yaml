@@ -1,8 +1,8 @@
 # some information about you
 name: "Ryan Caplette"
-nickname: "Ryan"
+nickname: "Ryan Caplette"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Hi, I am "
 image: "images/ryan-caplette.jpeg"
 # give your some contact information. they will be used in the footer
 # contactInfo:
@@ -10,9 +10,9 @@ image: "images/ryan-caplette.jpeg"
 #   phone: "+0123456789"
 
 # some summary about what you do
-summary:
-  - I am a Software Engineer
-  - A Full-Stack Bootcamp Instructor
-  - and I love working on fun and innovative projects
-  - Coding is not only my profession..
-  - It's also my passion and my hobby 😊
+# summary:
+#   - I am a Software Engineer
+#   - A Full-Stack Bootcamp Instructor
+#   - and I love working on fun and innovative projects
+#   - Coding is not only my profession..
+#   - It's also my passion and my hobby 😊

@@ -6,6 +6,6 @@ description: Portfolio and personal blog of Ryan Caplette.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
-# customMenus:
-# - name: Notes
-#   url: https://hossainemruz.gitbook.io/
+customMenus:
+- name: Contact Me
+  url: https://forms.gle/p8BwjMy8BEfWf8yE9

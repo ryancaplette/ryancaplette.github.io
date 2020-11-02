@@ -61,7 +61,7 @@
         {{ end }}
         {{ range  (index site.Data site.Language.Lang).site.customMenus }}
           <li class="nav-item">
-            <a class="nav-link" href="{{ .url }}">{{ .name }}</a>
+            <a target="_blank" class="nav-link" href="{{ .url }}">{{ .name }}</a>
           </li>
         {{ end }}
         <!-- {{ if .IsTranslated }}

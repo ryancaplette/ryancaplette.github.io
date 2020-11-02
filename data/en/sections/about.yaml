@@ -1,0 +1,64 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+company:
+  name: Simotus
+  url: "https://www.simotus.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Ryan_Caplette_Resume.pdf"
+
+# a summary about you
+summary: "I am a passionate software engineer with 7+ years of working experience helping businesses solve various challenges with technology. Over those years I've grown as a software engineer, built a leading fraud detection solution for the 10th largest telecom company in the world, and have been a lead instructor teaching full-stack web development at UCONN. I am looking forward to the future and the opportunities and challenges along the way."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "https://forms.gle/p8BwjMy8BEfWf8yE9"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/ryancaplette"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ryan-caplette/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Engagement
+  percentage: 90
+  color: blue
+- name: Knowledge
+  percentage: 90
+  color: yellow
+- name: Clarity
+  percentage: 90
+  color: pink
+
+reviewTitle: "UCONN 2020 Bootcamp Feedback:"
+
+reviews:
+- review: "Always supportive and wiling to help with the questions or issues.."
+- review: "Keep doing what you're doing.."
+- review: "Ryan is outstanding in his field and I'm glad he's leading the charge.."
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

@@ -1,0 +1,54 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Simotus
+    url: "https://www.simotus.com"
+    location: Bristol, Connecticut
+    # company overview
+    overview: Simotus is a software innovation company helping businesses solve challenges through software solutions.
+  positions:
+  - designation: Software Engineer
+    start: Aug 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Innovation Consulting, Technology, and Software Solutions
+    - Machine learning, Deep Learning, Data streaming, Cloud Solutions
+    - Implemented the industry leading SIMBOX and Fraud Detection solution now in use by the 10th largest telecommunication company in the world, Orange S.A.
+
+- company:
+    name: University of Connecticut (UConn)
+    url: "https://bootcamp.uconn.edu/"
+    location: Storrs, Connecticut
+    overview: Provide full-stack training to University of Connecticut students in an intensive bootcamp environment.
+  positions:
+  - designation: Full-Stack Bootcamp Instructor
+    start: July 2020
+    responsibilities:
+    - React, Node, Express, Javascript, Mysql, Mongodb, as well as various other frontend and backend technologies are taught to students; equipping them for competitive careers as full stack engineers.
+
+- company:
+    name: Treehouse Internet Group
+    url: "https://www.treehouseinternetgroup.com/"
+    location: Seymour, Connecticut
+    overview: Connecticut's largest internet marketing company, lead generation solutions for contractors accross the USA. 
+  positions:
+  - designation: Software Engineer
+    start: Jun 2015
+    end: Jan 2016
+    responsibilities:
+    - Collaborate and manage a team of talented programmers to improve and expand Connecticut's largest online marketing company, representing one of the largest lead generation programs in the United States.
+    - Monitor a comprehensive content management system and customized programming tools, enabling clients to leverage online search engine rankings and lead generations.
+    - Engineer customized programs including a tag cloud that allows keyword research into customer analytics, a marketing budget system designed to help dealers determine cost-effective marketing avenues, social widgets that simplify sharing, a complex map generating system, and more.
+

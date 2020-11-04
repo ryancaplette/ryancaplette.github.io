@@ -5,7 +5,8 @@ Personal Website
 * [ryancaplette.com](https://ryancaplette.com)
 
 Run:
-    hugo server -w
+<pre><code>hugo server -w</code></pre>
 
-Build
-    hugo -D
+Build:
+<pre><code>hugo -D</code></pre>
+    
